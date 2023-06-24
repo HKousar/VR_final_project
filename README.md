@@ -5,7 +5,7 @@ This project is a part of my master's course - Virtual Reality. The game (whack 
 2. Visual Studio Code https://code.visualstudio.com/download
 3. SideQuest (to manage VR headset) https://sidequestvr.com/setup-howto
 # Running the code
-1. Clone or download the git repository:
+1. Clone or download the git repository: https://github.com/HKousar/VR_final_project.git
 2. Open the project in Unity Hub
 3. Connect the VR headset to the computer via cable and set the headset in the SideQuest App (to check if the headset, left, and right controllers are connected or not)
 4. In Unity, navigate to the vr-final-project/Assets/Scene/FinalProject
